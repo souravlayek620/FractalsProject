@@ -1,0 +1,59 @@
+.form-check-input {
+  margin-right: 10px;
+}
+
+.setModuleheight {
+  margin-top: 160px;
+}
+
+.optionbg {
+  background-color: #0d6efd;
+  color: white;
+}
+
+.checked-checkbox {
+  background-color: blue;
+}
+
+.sharebtn {
+  margin-left: 400px;
+  width: 100px;
+}
+
+.form-check-input:checked {
+  background-color: green !important;
+  border-color: green !important;
+}
+
+.form-check-input {
+  border-color: green !important;
+  border-style: double;
+}
+
+.linkclick {
+  background-color: #e5e4e2;
+  font-weight: 500;
+  border-radius: 5px;
+  color: blue;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-left: 10px;
+}
+
+.impbuttonone {
+  margin-left: 195px;
+  margin-top: 45px;
+  width: 80px !important;
+  height: 40px !important;
+  background-color: #e6f3fb;
+  color: black;
+}
+
+.impbuttontwo {
+  margin-left: 25px;
+  margin-top: 45px;
+  width: 100px !important;
+  height: 40px !important;
+  background-color: #e6f3fb;
+  color: black;
+}

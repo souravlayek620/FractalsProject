@@ -1,0 +1,35 @@
+.invite {
+  width: 225px !important;
+  margin-top: 10px;
+  margin-left: 5px;
+}
+
+.details {
+  margin-top: 90px;
+}
+
+.detailsinvite {
+  margin-top: 45px;
+}
+
+.uploaddiv {
+  background-color: #87cefa;
+  width: 80%;
+  margin-left: 10%;
+  border-radius: 30px;
+}
+
+.fileupload {
+  margin-top: 20px;
+}
+
+#custom-button {
+  font-weight: 400;
+  border-radius: 5px;
+  margin-left: 455px;
+}
+
+.bill {
+  margin-top: 50px;
+  color: black !important;
+}
